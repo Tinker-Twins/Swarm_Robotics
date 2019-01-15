@@ -1,2 +1,2 @@
-# Swarm_Robotics
+# Swarm Robotics
 This project exhibits the "Master Follow Algorithm" of Swarm Robotics. It uses 2 robots - Master Robot and Slave Robot. The two robots communicate with each other using Bluetooth (UART communication protocol). The Master Robot is programmed to move in a pre-programmed fashion at a regular interval of 5 seconds. This data is transferred over the Bluetooth to the Slave Robot, which then imitates the master's operation.
